@@ -1,7 +1,7 @@
 
 import 'package:flutter/material.dart';
 
-import 'widgets/widgets/be_widgets.dart';
+import 'widgets/be_widgets.dart';
 
 
 void main() {
